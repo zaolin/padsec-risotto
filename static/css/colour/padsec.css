@@ -1,0 +1,12 @@
+/* padsec light mode
+ */
+ :root {
+    --dark-black: #051638;
+    --black: #eef1f7;
+    --bright-black: #FFCE44;
+    --white: #0A29A6;
+    --bright-white: #476BF6;
+    --green: #FFCE44;
+    --bright-green: #98971a;
+    --dark-white: #476BF6;
+}

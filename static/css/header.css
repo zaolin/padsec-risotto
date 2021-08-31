@@ -13,6 +13,15 @@
 }
 
 .main-nav li::marker {
-    content: "./";
+    content: "";
 }
 
+.main-nav li:before {
+    content: "(";
+    color: var(--green);
+}
+
+.main-nav li:after {
+    content: ")";
+    color: var(--green);
+}
